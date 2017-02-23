@@ -1,4 +1,4 @@
-Yii 2 Basic Project Template
+基于Yii2(php)的博客网站
 ============================
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
